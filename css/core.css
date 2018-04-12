@@ -1,0 +1,22 @@
+#sec_1 {
+    display: block;
+}
+
+.sec {
+    display: none;
+}
+
+pre {
+   padding-top: 1em !important;
+   padding-bottom: 1em !important;
+
+}
+
+.code-text {
+    font-family: monospace;
+    background-color: #fafafa;
+    padding: 4px;
+    border: 1px dashed lightgray;
+    border-radius: 2px;
+    margin-right: 2px;
+}
